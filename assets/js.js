@@ -78,7 +78,7 @@ function nextQuestion(event){
   ans3.textContent = question["options"][2];  
   ans4.textContent = question["options"][3];
   rightAnswer = question["answer"];
-  
+
   } else showResult();
 }
 
@@ -128,3 +128,10 @@ var questions = [
     ]
   }
 ]
+
+
+function finalResul(){
+
+
+
+}
