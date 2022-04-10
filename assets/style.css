@@ -1,0 +1,35 @@
+* {
+  background-color: darkgray;
+  padding-left: 20px;
+  height: auto;
+  width: fit-content;
+
+  
+}
+
+#ans1:hover{
+    background-color: goldenrod;
+    text-decoration: none;
+
+}
+#ans2:hover{
+    background-color: goldenrod;
+
+}
+#ans3:hover{
+    background-color: goldenrod;
+
+}
+#ans4:hover{
+    background-color: goldenrod;
+
+}
+
+.start-btn:hover{
+    background-color: goldenrod;
+
+}
+
+.next-btn:hover{
+    background-color: goldenrod;
+}
